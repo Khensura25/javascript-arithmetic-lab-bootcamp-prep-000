@@ -1,1 +1,1 @@
-parseInt('5.555', 10);
+console.log(parseInt('5.555', 10));
